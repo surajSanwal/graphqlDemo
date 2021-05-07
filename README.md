@@ -1,5 +1,9 @@
 # graphqlDemo
 
+## Discription
+
+Sample NodeJS server with ES6, Typescript and Graphql
+
 ## Project setup
 ```
 yarn install
