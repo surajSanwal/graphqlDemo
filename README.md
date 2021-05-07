@@ -1,10 +1,22 @@
-# graphqlDemo
+# GraphQL Demo
 
-## Discription
-
-Sample NodeJS server with ES6, Typescript and Graphql
+A Sample project for creating NodeJS server with ES6, Typescript and GraphQL
 
 ## Project setup
+
+### Clone 
+
+```
+git clone https://github.com/surajSanwal/graphqlDemo.git
+```
+
+### Moving to Project Directory 
+
+```
+cd graphqlDemo
+```
+
+### Installing Dependency 
 ```
 yarn install
 ```
@@ -15,6 +27,7 @@ yarn start
 ```
 
 ### Compiles and minifies for production
+
 ```
 yarn build
 ```
