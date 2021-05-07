@@ -1,0 +1,7 @@
+{
+  "watch": ["src/*", "public/*"],
+  "ext": "js, html, css, json, ts",
+  "execMap": {
+    "ts": "ts-node"
+  }
+}
